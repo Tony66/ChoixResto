@@ -3,6 +3,10 @@ com vulguis.
 test
 1er user
 
+2eme user
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ff22967a4a4ef1acf00b9961de58d53924b7c2ea
 qqqqqqqqqqqqq
